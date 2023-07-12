@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      apps-type: appsku
+      app: appsku
   template:
     metadata:
       labels:

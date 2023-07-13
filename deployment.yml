@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: ct-appsku
-        image: galawana/apps-games
+        image: galawana/apps-2048
         ports:
         - containerPort: 80
